@@ -1,0 +1,3 @@
+COS201|Programming|3
+MTH101|Calculus|2
+GST111|Use Of English|2
